@@ -1,0 +1,3 @@
+@echo off
+echo Starting Event Scheduler...
+java -cp "bin;src" com.event.CLILauncher
